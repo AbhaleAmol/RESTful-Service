@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="AntFirstApp" default="main" basedir=".">
+	<target name="main">
+		<!-- <javac srcdir="src"/> -->
+		<echo>AMOL</echo>
+	</target>
+</project>
